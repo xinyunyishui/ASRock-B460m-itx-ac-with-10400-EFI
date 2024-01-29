@@ -14,7 +14,7 @@ HDIM+DP均可正常输出视频+音频
   
 所有kext截止2024.1.28日均为最新版本。  
   
-##关于蓝牙问题  
+# 关于蓝牙问题  
 在[OpenIntelWireless/IntelBluetoothFirmware](https://github.com/OpenIntelWireless/IntelBluetoothFirmware)提交了issues，作者回复如下：  
 ![PixPin_2024-01-29_09-09-57](https://github.com/xinyunyishui/ASRock-B460m-itx-ac-with-10400-EFI/assets/49899578/11fcff4d-0ef8-46f1-80c9-b889e5c339c4)
 
