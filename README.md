@@ -1,5 +1,6 @@
 # ASRock-B460m-itx-ac-with-10400-EFI
 OpenCore版本：0.9.7  
+## 使用OC编辑器之前请将编辑器的OC升级至0.9.7
 MacOS：Ventura 13.6  
 主板：华擎B460m-ITX/AC  
 CPU：i5-10400  
